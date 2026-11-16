@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/BalaMSD7781">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9CD05&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer+Intern+%40+Educately+AI;Building+multi-agent+LLM+systems;Restoring+ancient+murals+with+diffusion;Catching+phishing+URLs+with+CNN+%2B+BiLSTM;Patient+in+the+build%2C+decisive+at+the+finish" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9CD05&center=true&vCenter=true&width=640&lines=Ex-AI%2FML+Engineer+Intern+%40+Educately+AI;Building+multi-agent+LLM+systems;Restoring+ancient+murals+with+diffusion;Catching+phishing+URLs+with+CNN+%2B+BiLSTM;Patient+in+the+build%2C+decisive+at+the+finish" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ### About me
 
-I'm an AI & Data Science undergraduate at Madras Institute of Technology, Anna University, and an AI/ML Engineer Intern at Educately AI, a U.S.-based EdTech startup building a Socratic AI tutoring platform.
+I'm an AI & Data Science undergraduate at Madras Institute of Technology, Anna University. I recently completed an AI/ML Engineer internship at Educately AI, a U.S.-based EdTech startup building a Socratic AI tutoring platform.
 
 Captain Cool is my blueprint: patient in the build, decisive at the finish.
 
