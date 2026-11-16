@@ -37,13 +37,6 @@ class Bala:
 
 ### 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/BalaMSD7781/agentic-jee-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BalaMSD7781&repo=agentic-jee-assistant&theme=tokyonight&hide_border=true&title_color=F9CD05&icon_color=0081E9" alt="agentic-jee-assistant"/></a>
-  <a href="https://github.com/BalaMSD7781/mural-restoration-diffusion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BalaMSD7781&repo=mural-restoration-diffusion&theme=tokyonight&hide_border=true&title_color=F9CD05&icon_color=0081E9" alt="mural-restoration-diffusion"/></a>
-  <a href="https://github.com/BalaMSD7781/DEPHIDES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BalaMSD7781&repo=DEPHIDES&theme=tokyonight&hide_border=true&title_color=F9CD05&icon_color=0081E9" alt="DEPHIDES"/></a>
-  <a href="https://github.com/BalaMSD7781/AI-Resume-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BalaMSD7781&repo=AI-Resume-Analyzer&theme=tokyonight&hide_border=true&title_color=F9CD05&icon_color=0081E9" alt="AI-Resume-Analyzer"/></a>
-</p>
-
 | | Project | Highlights |
 |:-:|---|---|
 | 🤖 | [**Agentic JEE Assistant**](https://github.com/BalaMSD7781/agentic-jee-assistant) | CrewAI analyzer → solver → reviewer, image questions, evidence-based fact-checking · FastAPI job queue |
@@ -77,8 +70,12 @@ class Bala:
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BalaMSD7781&show_icons=true&theme=tokyonight&hide_border=true&title_color=F9CD05&icon_color=0081E9&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaMSD7781&layout=compact&theme=tokyonight&hide_border=true&title_color=F9CD05&langs_count=6" alt="top languages"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaMSD7781&theme=tokyonight" alt="profile details"/>
+</p>
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalaMSD7781&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BalaMSD7781&theme=tokyonight" alt="repos per language"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BalaMSD7781&theme=tokyonight" alt="most commit language"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BalaMSD7781&theme=tokyonight&hide_border=true&ring=F9CD05&fire=F9CD05&currStreakLabel=F9CD05" alt="streak"/>
