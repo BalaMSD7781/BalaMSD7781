@@ -1,10 +1,9 @@
 # Hi, I'm Bala (Balamurugan T) 👋
 
-**AI & Data Science undergraduate** at Madras Institute of Technology, Anna University, and **AI/ML Engineer Intern at [Educately AI](https://github.com/jayarameducately)**, a U.S.-based EdTech startup building a Socratic AI tutoring platform.
+**AI & Data Science undergraduate** at Madras Institute of Technology, Anna University, and **AI/ML Engineer Intern at Educately AI**, a U.S.-based EdTech startup building a Socratic AI tutoring platform.
 
 I build applied AI systems end to end: multi-agent LLM workflows, diffusion-based image restoration, and deep-learning security models, from training notebooks through to deployed apps.
 
-- 🔭 Currently working on agentic tutoring and evaluation pipelines for LLM-based education
 - 🧠 Interests: agentic AI, generative models, computer vision, applied NLP
 - 🏆 Dr. APJ Abdul Kalam Award for Best Polytechnic Student · NPTEL Top 1% · C-DAC cybersecurity credential · [IBM SkillsBuild: AI Fundamentals](https://www.credly.com/badges/7662935e-0b58-44b2-b4c7-975107270494)
 - 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/bala07msd)
@@ -23,7 +22,7 @@ I build applied AI systems end to end: multi-agent LLM workflows, diffusion-base
 
 ## Tech stack
 
-**Languages:** Python · SQL · JavaScript
+**Languages:** Python
 **ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · Hugging Face Transformers & Diffusers · OpenCV
 **LLMs & agents:** CrewAI · LangChain · Gemini · Groq · OpenRouter · RAG
 **Apps & deployment:** Streamlit · FastAPI · Gradio · Render · Kaggle/Colab GPUs · Git
