@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/BalaMSD7781">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9CD05&center=true&vCenter=true&width=640&lines=Ex-AI%2FML+Engineer+Intern+%40+Educately+AI;Building+multi-agent+LLM+systems;Restoring+ancient+murals+with+diffusion;Catching+phishing+URLs+with+CNN+%2B+BiLSTM;Patient+in+the+build%2C+decisive+at+the+finish" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9CD05&center=true&vCenter=true&width=640&lines=Ex-AI%2FML+Engineer+Intern+%40+Educately+AI;Building+multi-agent+LLM+systems;Restoring+ancient+murals+with+diffusion;Catching+phishing+URLs+with+CNN+%2B+BiLSTM;From+notebook+to+deployed+app" alt="Typing SVG"/>
   </a>
 </p>
 
