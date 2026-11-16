@@ -25,16 +25,29 @@ Captain Cool is my blueprint: patient in the build, decisive at the finish.
 
 ---
 
+### By the numbers
+
+<p align="center">
+  <img src="assets/impact.svg" width="100%" alt="98.95% phishing detection accuracy, 5.2M URLs in the training corpus, a 3-agent solve-review-correct loop, 2 live apps on Streamlit"/>
+</p>
+
+---
+
 ### Featured projects
 
-| Project | Highlights |
-|---|---|
-| [**Agentic JEE Assistant**](https://github.com/BalaMSD7781/agentic-jee-assistant) | CrewAI analyzer, solver and reviewer agents, image questions and evidence-based fact-checking, served through a FastAPI job queue |
-| [**Mural Restoration**](https://github.com/BalaMSD7781/mural-restoration-diffusion) | Attention U-Net segmentation with damage-aware, two-stage Stable Diffusion inpainting using custom mural and Canny LoRAs |
-| [**DEPHIDES**](https://github.com/BalaMSD7781/DEPHIDES) | Character-level CNN + BiLSTM phishing detector, **98.95%** accuracy on 515K test URLs |
-| [**AI Resume Analyzer**](https://github.com/BalaMSD7781/AI-Resume-Analyzer) | Gemini-powered match score, missing skills and cover letters · [Live demo](https://ai-resume-analyzer-bala.streamlit.app/) |
-| [**AI Skin Analyzer**](https://github.com/BalaMSD7781/AI-Skin-Analyzer-and-Skincare-Recommender) | VGG16 + SVM analysis of skin type, acne and wrinkles with personalised routines · [Live demo](https://ai-skin-analyzer-and-skincare-recommender.streamlit.app/) |
-| [**Generative AI Lab**](https://github.com/BalaMSD7781/Generative-Ai) · [**CV Lab**](https://github.com/BalaMSD7781/COMPUTER-VISION-LABORATORY) | 7 generative AI notebooks (Stable Diffusion, text-to-video, Whisper, LangChain) and 12 OpenCV experiments |
+<p align="center">
+  <a href="https://github.com/BalaMSD7781/agentic-jee-assistant"><img src="assets/card-jee.svg" width="49%" alt="Agentic JEE Assistant"/></a>
+  <a href="https://github.com/BalaMSD7781/mural-restoration-diffusion"><img src="assets/card-mural.svg" width="49%" alt="Mural Restoration"/></a>
+  <a href="https://github.com/BalaMSD7781/DEPHIDES"><img src="assets/card-dephides.svg" width="49%" alt="DEPHIDES"/></a>
+  <a href="https://ai-resume-analyzer-bala.streamlit.app/"><img src="assets/card-resume.svg" width="49%" alt="AI Resume Analyzer"/></a>
+</p>
+
+<p align="center">
+  More: <a href="https://github.com/BalaMSD7781/AI-Skin-Analyzer-and-Skincare-Recommender"><b>AI Skin Analyzer</b></a> (<a href="https://ai-skin-analyzer-and-skincare-recommender.streamlit.app/">live demo</a>) ·
+  <a href="https://github.com/BalaMSD7781/Generative-Ai"><b>Generative AI Lab</b></a> ·
+  <a href="https://github.com/BalaMSD7781/COMPUTER-VISION-LABORATORY"><b>Computer Vision Lab</b></a>
+</p>
+
 
 ---
 
@@ -53,24 +66,6 @@ Captain Cool is my blueprint: patient in the build, decisive at the finish.
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/>
-</p>
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaMSD7781&theme=tokyonight" alt="profile details"/>
-</p>
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalaMSD7781&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BalaMSD7781&theme=tokyonight" alt="repos per language"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BalaMSD7781&theme=tokyonight&hide_border=true&ring=F9CD05&fire=F9CD05&currStreakLabel=F9CD05" alt="streak"/>
-</p>
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BalaMSD7781&theme=tokyo-night&hide_border=true&color=F9CD05&line=0081E9&point=ffffff&area=true" alt="activity graph"/>
 </p>
 
 <!-- Footer -->
