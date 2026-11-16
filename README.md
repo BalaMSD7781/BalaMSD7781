@@ -75,7 +75,6 @@ class Bala:
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalaMSD7781&theme=tokyonight" alt="stats"/>
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BalaMSD7781&theme=tokyonight" alt="repos per language"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BalaMSD7781&theme=tokyonight" alt="most commit language"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BalaMSD7781&theme=tokyonight&hide_border=true&ring=F9CD05&fire=F9CD05&currStreakLabel=F9CD05" alt="streak"/>
