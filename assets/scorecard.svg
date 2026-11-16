@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="352" viewBox="0 0 1000 352">
+<style>.row{animation:in .5s ease-out both} @keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}
+.live{animation:pulse 1.4s ease-in-out infinite} @keyframes pulse{50%{opacity:.25}}</style>
+<g font-family="Segoe UI, Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+<rect x="1" y="1" width="998" height="350" rx="16" fill="#1a1b27" stroke="#2a2e42" stroke-width="1.5"/>
+<rect x="1" y="1" width="998" height="70" rx="16" fill="#F9CD05"/>
+<rect x="1" y="50" width="998" height="21" fill="#F9CD05"/>
+<text x="32" y="45" font-size="13" letter-spacing="3" font-weight="700" fill="#0b2a5b">CAREER SCORECARD</text>
+<text x="230" y="46" font-size="22" font-weight="800" fill="#0b2a5b">BALAMURUGAN T</text>
+<g transform="translate(768,18)"><rect width="204" height="34" rx="17" fill="#0b2a5b"/>
+<circle class="live" cx="22" cy="17" r="5" fill="#ff4d4d"/>
+<text x="38" y="22" font-size="13" font-weight="700" fill="#F9CD05" letter-spacing="1">LIVE · JERSEY No. 7</text></g>
+<g class="row" style="animation-delay:0.25s">
+<rect x="24" y="96" width="952" height="36" fill="#161a2b"/>
+<text x="44" y="119" font-size="12" letter-spacing="1.6" fill="#7f87a8" font-weight="600">INNINGS</text>
+<text x="250" y="120" font-size="19" font-weight="800" fill="#F9CD05">7</text>
+<text x="360" y="119" font-size="14" fill="#c0caf5">projects shipped, all public on GitHub</text>
+</g><g class="row" style="animation-delay:0.37s">
+<rect x="24" y="132" width="952" height="36" fill="#1a1b27"/>
+<text x="44" y="155" font-size="12" letter-spacing="1.6" fill="#7f87a8" font-weight="600">HIGHEST SCORE</text>
+<text x="250" y="156" font-size="19" font-weight="800" fill="#3B9CFF">98.95%</text>
+<text x="360" y="155" font-size="14" fill="#c0caf5">phishing detection accuracy (DEPHIDES, 515K test URLs)</text>
+</g><g class="row" style="animation-delay:0.49s">
+<rect x="24" y="168" width="952" height="36" fill="#161a2b"/>
+<text x="44" y="191" font-size="12" letter-spacing="1.6" fill="#7f87a8" font-weight="600">FORMATS</text>
+<text x="250" y="192" font-size="19" font-weight="800" fill="#F9CD05">4</text>
+<text x="360" y="191" font-size="14" fill="#c0caf5">LLM agents · diffusion models · computer vision · DL security</text>
+</g><g class="row" style="animation-delay:0.61s">
+<rect x="24" y="204" width="952" height="36" fill="#1a1b27"/>
+<text x="44" y="227" font-size="12" letter-spacing="1.6" fill="#7f87a8" font-weight="600">PARTNERSHIPS</text>
+<text x="250" y="228" font-size="19" font-weight="800" fill="#3B9CFF">2</text>
+<text x="360" y="227" font-size="14" fill="#c0caf5">team projects: Agentic JEE Assistant, Mural Restoration</text>
+</g><g class="row" style="animation-delay:0.73s">
+<rect x="24" y="240" width="952" height="36" fill="#161a2b"/>
+<text x="44" y="263" font-size="12" letter-spacing="1.6" fill="#7f87a8" font-weight="600">NOT OUT</text>
+<text x="250" y="264" font-size="19" font-weight="800" fill="#F9CD05">2</text>
+<text x="360" y="263" font-size="14" fill="#c0caf5">live apps running on Streamlit Cloud</text>
+</g><g class="row" style="animation-delay:0.85s">
+<rect x="24" y="276" width="952" height="36" fill="#1a1b27"/>
+<text x="44" y="299" font-size="12" letter-spacing="1.6" fill="#7f87a8" font-weight="600">SPELLS</text>
+<text x="250" y="300" font-size="19" font-weight="800" fill="#3B9CFF">1</text>
+<text x="360" y="299" font-size="14" fill="#c0caf5">AI/ML engineering internship completed, Educately AI</text>
+</g>
+<text x="500.0" y="338" text-anchor="middle" font-size="13" font-style="italic" fill="#7f87a8">Patient in the build, decisive at the finish.</text>
+</g>
+</svg>

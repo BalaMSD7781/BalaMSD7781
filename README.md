@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0081E9,100:F9CD05&height=220&section=header&text=Balamurugan%20T&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Generative%20Models&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="assets/hero.svg" width="100%" alt="Balamurugan T, AI / ML Engineer: Agentic AI, Generative Models, Computer Vision"/>
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@ Captain Cool is my blueprint: patient in the build, decisive at the finish.
 
 ---
 
-### By the numbers
+### Career scorecard
 
 <p align="center">
-  <img src="assets/impact.svg" width="100%" alt="98.95% phishing detection accuracy, 5.2M URLs in the training corpus, a 3-agent solve-review-correct loop, 2 live apps on Streamlit"/>
+  <img src="assets/scorecard.svg" width="100%" alt="Career scorecard: 7 projects, highest score 98.95% phishing detection accuracy, 4 formats, 2 team partnerships, 2 live apps, 1 internship completed"/>
 </p>
 
 ---
@@ -66,9 +66,4 @@ Captain Cool is my blueprint: patient in the build, decisive at the finish.
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9CD05,100:0081E9&height=120&section=footer" width="100%" alt="footer"/>
 </p>
