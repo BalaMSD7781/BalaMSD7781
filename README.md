@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/BalaMSD7781">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9CD05&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer+Intern+%40+Educately+AI;Building+multi-agent+LLM+systems+%F0%9F%A4%96;Restoring+ancient+murals+with+diffusion+%F0%9F%8E%A8;Catching+phishing+URLs+with+CNN+%2B+BiLSTM+%F0%9F%9B%A1%EF%B8%8F;Calm+under+pressure%2C+finishes+like+Thala+%F0%9F%8F%8F" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9CD05&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer+Intern+%40+Educately+AI;Building+multi-agent+LLM+systems;Restoring+ancient+murals+with+diffusion;Catching+phishing+URLs+with+CNN+%2B+BiLSTM;Patient+in+the+build%2C+decisive+at+the+finish" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bala07msd"><img src="https://img.shields.io/badge/LinkedIn-bala07msd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20roles-F9CD05?style=for-the-badge&logo=rocket&logoColor=black" alt="Open to AI/ML roles"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20roles-F9CD05?style=for-the-badge&labelColor=0081E9" alt="Open to AI/ML roles"/>
   <img src="https://komarev.com/ghpvc/?username=BalaMSD7781&label=Profile%20views&color=0081E9&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -25,20 +25,20 @@ Captain Cool is my blueprint: patient in the build, decisive at the finish.
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
-| | Project | Highlights |
-|:-:|---|---|
-| 🤖 | [**Agentic JEE Assistant**](https://github.com/BalaMSD7781/agentic-jee-assistant) | CrewAI analyzer → solver → reviewer, image questions, evidence-based fact-checking · FastAPI job queue |
-| 🎨 | [**Mural Restoration**](https://github.com/BalaMSD7781/mural-restoration-diffusion) | Attention U-Net + damage-aware 2-stage Stable Diffusion with custom mural & Canny LoRAs |
-| 🛡️ | [**DEPHIDES**](https://github.com/BalaMSD7781/DEPHIDES) | Char-level CNN + BiLSTM phishing detector · **98.95%** accuracy on 515K test URLs |
-| 📄 | [**AI Resume Analyzer**](https://github.com/BalaMSD7781/AI-Resume-Analyzer) | Gemini-powered match score, missing skills & cover letters · [live demo ↗](https://ai-resume-analyzer-bala.streamlit.app/) |
-| 🧴 | [**AI Skin Analyzer**](https://github.com/BalaMSD7781/AI-Skin-Analyzer-and-Skincare-Recommender) | VGG16 + SVM skin, acne & wrinkle analysis with routines · [live demo ↗](https://ai-skin-analyzer-and-skincare-recommender.streamlit.app/) |
-| 🧪 | [**Generative AI Lab**](https://github.com/BalaMSD7781/Generative-Ai) · [**CV Lab**](https://github.com/BalaMSD7781/COMPUTER-VISION-LABORATORY) | 7 GenAI notebooks (SD, text-to-video, Whisper, LangChain) · 12 OpenCV experiments |
+| Project | Highlights |
+|---|---|
+| [**Agentic JEE Assistant**](https://github.com/BalaMSD7781/agentic-jee-assistant) | CrewAI analyzer, solver and reviewer agents, image questions and evidence-based fact-checking, served through a FastAPI job queue |
+| [**Mural Restoration**](https://github.com/BalaMSD7781/mural-restoration-diffusion) | Attention U-Net segmentation with damage-aware, two-stage Stable Diffusion inpainting using custom mural and Canny LoRAs |
+| [**DEPHIDES**](https://github.com/BalaMSD7781/DEPHIDES) | Character-level CNN + BiLSTM phishing detector, **98.95%** accuracy on 515K test URLs |
+| [**AI Resume Analyzer**](https://github.com/BalaMSD7781/AI-Resume-Analyzer) | Gemini-powered match score, missing skills and cover letters · [Live demo](https://ai-resume-analyzer-bala.streamlit.app/) |
+| [**AI Skin Analyzer**](https://github.com/BalaMSD7781/AI-Skin-Analyzer-and-Skincare-Recommender) | VGG16 + SVM analysis of skin type, acne and wrinkles with personalised routines · [Live demo](https://ai-skin-analyzer-and-skincare-recommender.streamlit.app/) |
+| [**Generative AI Lab**](https://github.com/BalaMSD7781/Generative-Ai) · [**CV Lab**](https://github.com/BalaMSD7781/COMPUTER-VISION-LABORATORY) | 7 generative AI notebooks (Stable Diffusion, text-to-video, Whisper, LangChain) and 12 OpenCV experiments |
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,git,github,vscode&perline=9" alt="skills"/>
@@ -57,7 +57,7 @@ Captain Cool is my blueprint: patient in the build, decisive at the finish.
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaMSD7781&theme=tokyonight" alt="profile details"/>
