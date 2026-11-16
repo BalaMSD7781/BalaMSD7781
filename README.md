@@ -21,12 +21,6 @@
 
 I'm an AI & Data Science undergraduate at Madras Institute of Technology, Anna University, and an AI/ML Engineer Intern at Educately AI, a U.S.-based EdTech startup building a Socratic AI tutoring platform.
 
-I like taking an idea all the way from a notebook to something people can actually use. Most of my work sits in three areas: multi-agent LLM systems, diffusion models for image restoration, and deep learning for security.
-
-- **Focus:** agentic AI, generative models, computer vision
-- **Recognition:** Dr. APJ Abdul Kalam Award (Best Polytechnic Student), NPTEL Top 1%, C-DAC Cybersecurity, IBM SkillsBuild AI Fundamentals
-- **Off the keyboard:** cricket, and a lifelong MS Dhoni fan
-
 ---
 
 ### 🚀 Featured projects
