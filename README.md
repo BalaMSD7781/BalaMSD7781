@@ -21,6 +21,8 @@
 
 I'm an AI & Data Science undergraduate at Madras Institute of Technology, Anna University, and an AI/ML Engineer Intern at Educately AI, a U.S.-based EdTech startup building a Socratic AI tutoring platform.
 
+I approach every project the way Dhoni captains CSK: stay calm under pressure, read the game, and finish what I start.
+
 ---
 
 ### 🚀 Featured projects
