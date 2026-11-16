@@ -22,7 +22,7 @@ I build applied AI systems end to end: multi-agent LLM workflows, diffusion-base
 
 ## Tech stack
 
-**Languages:** Python
-**ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · Hugging Face Transformers & Diffusers · OpenCV
-**LLMs & agents:** CrewAI · LangChain · Gemini · Groq · OpenRouter · RAG
-**Apps & deployment:** Streamlit · FastAPI · Gradio · Render · Kaggle/Colab GPUs · Git
+- **Languages:** Python
+- **ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · Hugging Face Transformers & Diffusers · OpenCV
+- **LLMs & agents:** CrewAI · LangChain · Gemini · Groq · OpenRouter · RAG
+- **Apps & deployment:** Streamlit · FastAPI · Gradio · Render · Kaggle/Colab GPUs · Git
