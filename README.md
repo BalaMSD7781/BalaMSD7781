@@ -23,8 +23,6 @@ I'm an AI & Data Science undergraduate at Madras Institute of Technology, Anna U
 
 I like taking an idea all the way from a notebook to something people can actually use. Most of my work sits in three areas: multi-agent LLM systems, diffusion models for image restoration, and deep learning for security.
 
-- **Currently:** AI/ML Engineer Intern at Educately AI
-- **Education:** B.Tech AI & Data Science, MIT Anna University
 - **Focus:** agentic AI, generative models, computer vision
 - **Recognition:** Dr. APJ Abdul Kalam Award (Best Polytechnic Student), NPTEL Top 1%, C-DAC Cybersecurity, IBM SkillsBuild AI Fundamentals
 - **Off the keyboard:** cricket, and a lifelong MS Dhoni fan
